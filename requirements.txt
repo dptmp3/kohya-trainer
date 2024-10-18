@@ -32,3 +32,7 @@ lycoris-lora==0.1.4
 xformers==0.0.28.post1
 # for kohya_ss library
 .
+
+chex==0.1.86 
+optax==0.2.2
+flax==0.8.4
