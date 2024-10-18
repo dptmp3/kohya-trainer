@@ -15,7 +15,7 @@ safetensors==0.4.1
 toml==0.10.2
 voluptuous==0.13.1
 # for BLIP captioning
-requests==2.31.0
+requests==2.32.3
 timm==0.6.12
 fairscale==0.4.13
 # for WD14 captioning
@@ -29,6 +29,6 @@ lion-pytorch==0.0.6
 # for network module
 # locon==0.0.4
 lycoris-lora==0.1.4
-xformers==0.0.22.post7
+xformers==0.0.28.post1
 # for kohya_ss library
 .
